@@ -101,12 +101,22 @@ const About: React.FC = () => {
             <div>
               <h2 className="text-3xl font-bold text-gray-900 mb-6">Our Story</h2>
               <p className="text-gray-600 mb-6 leading-relaxed">
-                Founded in 2009, ElectroTech began as a small startup with big dreams. Our founders, passionate engineers with decades of experience, 
-                saw the need for more reliable, innovative electrical components in an increasingly digital world.
+                Established in 2017 in Delhi, Switch Mart India has quickly carved a niche in the distribution of high-quality active and
+                passive electronic components for industrial supply. Known for our unmatched Value-Added Distribution Services,
+                we are more than just a distributor — we are a trusted partner to businesses across India.
               </p>
               <p className="text-gray-600 mb-6 leading-relaxed">
-                Today, we're proud to serve customers across 50+ countries, delivering high-quality electrical circuits, components, and systems 
-                that power everything from smart homes to industrial facilities.
+                At Switch Mart India, we specialize in the distribution and marketing of electronic components used in a wide range of applications, including:
+
+                <p> Industrial Automation </p>
+
+                <p>Medical Equipment </p>
+
+                <p>Power Electronics </p>
+
+                <p>Communication Systems</p>
+
+                <p>Solar Energy Solutions, and more.</p>
               </p>
               <div className="grid grid-cols-2 gap-8">
                 <div className="text-center">

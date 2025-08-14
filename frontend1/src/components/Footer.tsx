@@ -21,7 +21,9 @@ const Footer: React.FC = () => {
               <span className="text-xl font-bold">SwitchMartIndia</span>
             </div>
             <p className="text-gray-400 text-sm leading-relaxed">
-              Leading provider of innovative electrical circuits and components for industrial and consumer applications.
+              We are a trusted importer and supplier of high-quality active and passive electronic components, 
+              offering a wide range of products including PCB terminal blocks, edge connectors, fuse holders,
+               rotary switches, toggle switches, rocker switches, push connectors, sub-miniature switches, and more......
             </p>
             <div className="flex space-x-4">
               <a href="#" className="text-gray-400 hover:text-blue-400 transition-colors duration-200">
@@ -109,16 +111,19 @@ const Footer: React.FC = () => {
             <h3 className="text-lg font-semibold">Contact Info</h3>
             <div className="space-y-3">
               <div className="flex items-center space-x-3">
-                <MapPin className="h-4 w-4 text-blue-400" />
-                <span className="text-gray-400 text-sm">123 Tech Street, Innovation City</span>
+                <MapPin className="h-20 w-11 text-blue-400" />
+                <span className="text-gray-400 text-sm">Shop no-15, 2nd Floor BMS Center, Moti Cinema Compound
+                  Bhagirath Palace, Chandi Chawk,Delhi-110006
+                </span>
               </div>
               <div className="flex items-center space-x-3">
                 <Phone className="h-4 w-4 text-blue-400" />
-                <span className="text-gray-400 text-sm">+1 (555) 123-4567</span>
+                <span className="text-gray-400 text-sm">9873749621 / 8160448571</span>
               </div>
               <div className="flex items-center space-x-3">
                 <Mail className="h-4 w-4 text-blue-400" />
-                <span className="text-gray-400 text-sm">info@SwitchMartIndia.com</span>
+                <span className="text-gray-400 text-sm">switchmart2016@gmail.com
+                </span>
               </div>
             </div>
           </div>
